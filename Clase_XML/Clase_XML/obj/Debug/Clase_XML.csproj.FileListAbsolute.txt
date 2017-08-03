@@ -1,0 +1,10 @@
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_XML\Clase_XML\bin\Debug\Clase_XML.dll
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_XML\Clase_XML\bin\Debug\Clase_XML.pdb
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_XML\Clase_XML\obj\Debug\Clase_XML.csprojResolveAssemblyReference.cache
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_XML\Clase_XML\obj\Debug\Clase_XML.dll
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_XML\Clase_XML\obj\Debug\Clase_XML.pdb
+F:\Clase_XML\Clase_XML\obj\Debug\Clase_XML.csprojResolveAssemblyReference.cache
+F:\Clase_XML\Clase_XML\obj\Debug\Clase_XML.dll
+F:\Clase_XML\Clase_XML\obj\Debug\Clase_XML.pdb
+F:\Clase_XML\Clase_XML\bin\Debug\Clase_XML.dll
+F:\Clase_XML\Clase_XML\bin\Debug\Clase_XML.pdb

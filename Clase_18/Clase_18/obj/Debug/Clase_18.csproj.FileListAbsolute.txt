@@ -1,0 +1,12 @@
+E:\Clase_18\Clase_18\bin\Debug\Clase_18.exe.config
+E:\Clase_18\Clase_18\obj\Debug\Clase_18.csprojResolveAssemblyReference.cache
+E:\Clase_18\Clase_18\obj\Debug\Clase_18.FormularioEmpleado.resources
+E:\Clase_18\Clase_18\obj\Debug\Clase_18.Properties.Resources.resources
+E:\Clase_18\Clase_18\obj\Debug\Clase_18.csproj.GenerateResource.Cache
+E:\Clase_18\Clase_18\bin\Debug\Clase_18.exe
+E:\Clase_18\Clase_18\bin\Debug\Clase_18.pdb
+E:\Clase_18\Clase_18\obj\Debug\Clase_18.exe
+E:\Clase_18\Clase_18\obj\Debug\Clase_18.pdb
+F:\Clase_18\Clase_18\bin\Debug\Clase_18.exe.config
+F:\Clase_18\Clase_18\obj\Debug\Clase_18.exe
+F:\Clase_18\Clase_18\obj\Debug\Clase_18.pdb

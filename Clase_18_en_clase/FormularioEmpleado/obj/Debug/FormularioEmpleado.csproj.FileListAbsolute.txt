@@ -1,0 +1,11 @@
+F:\Clase_18_en_clase\FormularioEmpleado\bin\Debug\FormularioEmpleado.exe.config
+F:\Clase_18_en_clase\FormularioEmpleado\bin\Debug\FormularioEmpleado.exe
+F:\Clase_18_en_clase\FormularioEmpleado\bin\Debug\FormularioEmpleado.pdb
+F:\Clase_18_en_clase\FormularioEmpleado\bin\Debug\Librerias.dll
+F:\Clase_18_en_clase\FormularioEmpleado\bin\Debug\Librerias.pdb
+F:\Clase_18_en_clase\FormularioEmpleado\obj\Debug\FormularioEmpleado.csprojResolveAssemblyReference.cache
+F:\Clase_18_en_clase\FormularioEmpleado\obj\Debug\FormularioEmpleado.Form1.resources
+F:\Clase_18_en_clase\FormularioEmpleado\obj\Debug\FormularioEmpleado.Properties.Resources.resources
+F:\Clase_18_en_clase\FormularioEmpleado\obj\Debug\FormularioEmpleado.csproj.GenerateResource.Cache
+F:\Clase_18_en_clase\FormularioEmpleado\obj\Debug\FormularioEmpleado.exe
+F:\Clase_18_en_clase\FormularioEmpleado\obj\Debug\FormularioEmpleado.pdb

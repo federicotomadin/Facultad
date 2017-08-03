@@ -1,0 +1,19 @@
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_XML\XML_Consola\bin\Debug\XML_Consola.exe.config
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_XML\XML_Consola\bin\Debug\XML_Consola.exe
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_XML\XML_Consola\bin\Debug\XML_Consola.pdb
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_XML\XML_Consola\bin\Debug\Clase_XML.dll
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_XML\XML_Consola\bin\Debug\Clase_XML.pdb
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_XML\XML_Consola\obj\Debug\XML_Consola.csprojResolveAssemblyReference.cache
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_XML\XML_Consola\obj\Debug\XML_Consola.exe
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_XML\XML_Consola\obj\Debug\XML_Consola.pdb
+F:\Clase_XML\XML_Consola\bin\Debug\XML_Consola.exe.config
+F:\Clase_XML\XML_Consola\obj\Debug\XML_Consola.exe
+F:\Clase_XML\XML_Consola\obj\Debug\XML_Consola.pdb
+F:\Clase_XML\XML_Consola\obj\Debug\XML_Consola.csprojResolveAssemblyReference.cache
+F:\Clase_XML\XML_Consola\bin\Debug\XML_Consola.exe
+F:\Clase_XML\XML_Consola\bin\Debug\XML_Consola.pdb
+F:\Clase_XML\XML_Consola\bin\Debug\Clase_XML.dll
+F:\Clase_XML\XML_Consola\bin\Debug\Clase_XML.pdb
+E:\Clase_XML\XML_Consola\bin\Debug\XML_Consola.exe.config
+E:\Clase_XML\XML_Consola\obj\Debug\XML_Consola.exe
+E:\Clase_XML\XML_Consola\obj\Debug\XML_Consola.pdb

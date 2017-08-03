@@ -1,0 +1,16 @@
+c:\Users\alumno\Documents\Visual Studio 2012\Projects\Clase_19\Program_clase_19\bin\Debug\Program_clase_19.exe.config
+c:\Users\alumno\Documents\Visual Studio 2012\Projects\Clase_19\Program_clase_19\bin\Debug\Program_clase_19.exe
+c:\Users\alumno\Documents\Visual Studio 2012\Projects\Clase_19\Program_clase_19\bin\Debug\Program_clase_19.pdb
+c:\Users\alumno\Documents\Visual Studio 2012\Projects\Clase_19\Program_clase_19\bin\Debug\Clase_19.dll
+c:\Users\alumno\Documents\Visual Studio 2012\Projects\Clase_19\Program_clase_19\bin\Debug\Clase_19.pdb
+c:\Users\alumno\Documents\Visual Studio 2012\Projects\Clase_19\Program_clase_19\obj\Debug\Program_clase_19.csprojResolveAssemblyReference.cache
+c:\Users\alumno\Documents\Visual Studio 2012\Projects\Clase_19\Program_clase_19\obj\Debug\Program_clase_19.exe
+c:\Users\alumno\Documents\Visual Studio 2012\Projects\Clase_19\Program_clase_19\obj\Debug\Program_clase_19.pdb
+F:\Clase_19\Program_clase_19\bin\Debug\Program_clase_19.exe.config
+F:\Clase_19\Program_clase_19\obj\Debug\Program_clase_19.exe
+F:\Clase_19\Program_clase_19\obj\Debug\Program_clase_19.pdb
+F:\Clase_19\Program_clase_19\obj\Debug\Program_clase_19.csprojResolveAssemblyReference.cache
+F:\Clase_19\Program_clase_19\bin\Debug\Program_clase_19.exe
+F:\Clase_19\Program_clase_19\bin\Debug\Program_clase_19.pdb
+F:\Clase_19\Program_clase_19\bin\Debug\Clase_19.dll
+F:\Clase_19\Program_clase_19\bin\Debug\Clase_19.pdb

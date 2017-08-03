@@ -1,0 +1,8 @@
+F:\CentralTelefonica\CentralitaSerializacionProgram\bin\Debug\CentralitaSerializacionProgram.exe.config
+F:\CentralTelefonica\CentralitaSerializacionProgram\bin\Debug\CentralitaSerializacionProgram.exe
+F:\CentralTelefonica\CentralitaSerializacionProgram\bin\Debug\CentralitaSerializacionProgram.pdb
+F:\CentralTelefonica\CentralitaSerializacionProgram\bin\Debug\CentralitaSerializacion.exe
+F:\CentralTelefonica\CentralitaSerializacionProgram\bin\Debug\CentralitaSerializacion.pdb
+F:\CentralTelefonica\CentralitaSerializacionProgram\obj\Debug\CentralitaSerializacionProgram.csprojResolveAssemblyReference.cache
+F:\CentralTelefonica\CentralitaSerializacionProgram\obj\Debug\CentralitaSerializacionProgram.exe
+F:\CentralTelefonica\CentralitaSerializacionProgram\obj\Debug\CentralitaSerializacionProgram.pdb

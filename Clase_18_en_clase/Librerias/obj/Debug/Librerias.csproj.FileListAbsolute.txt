@@ -1,0 +1,5 @@
+F:\Clase_18_en_clase\Librerias\obj\Debug\Librerias.csprojResolveAssemblyReference.cache
+F:\Clase_18_en_clase\Librerias\bin\Debug\Librerias.dll
+F:\Clase_18_en_clase\Librerias\bin\Debug\Librerias.pdb
+F:\Clase_18_en_clase\Librerias\obj\Debug\Librerias.dll
+F:\Clase_18_en_clase\Librerias\obj\Debug\Librerias.pdb

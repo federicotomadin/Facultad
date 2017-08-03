@@ -1,0 +1,10 @@
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_Pintura\Clase_Pintura\obj\Debug\Clase_Pintura.csprojResolveAssemblyReference.cache
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_Pintura\Clase_Pintura\bin\Debug\Clase_Pintura.dll
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_Pintura\Clase_Pintura\bin\Debug\Clase_Pintura.pdb
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_Pintura\Clase_Pintura\obj\Debug\Clase_Pintura.dll
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_Pintura\Clase_Pintura\obj\Debug\Clase_Pintura.pdb
+F:\Clase_Pintura\Clase_Pintura\obj\Debug\Clase_Pintura.csprojResolveAssemblyReference.cache
+F:\Clase_Pintura\Clase_Pintura\obj\Debug\Clase_Pintura.dll
+F:\Clase_Pintura\Clase_Pintura\obj\Debug\Clase_Pintura.pdb
+F:\Clase_Pintura\Clase_Pintura\bin\Debug\Clase_Pintura.dll
+F:\Clase_Pintura\Clase_Pintura\bin\Debug\Clase_Pintura.pdb

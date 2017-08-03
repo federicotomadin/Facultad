@@ -1,0 +1,8 @@
+F:\Clase_18_en_clase\Clase_18_en_clase\bin\Debug\Clase_18_en_clase.exe.config
+F:\Clase_18_en_clase\Clase_18_en_clase\bin\Debug\Clase_18_en_clase.exe
+F:\Clase_18_en_clase\Clase_18_en_clase\bin\Debug\Clase_18_en_clase.pdb
+F:\Clase_18_en_clase\Clase_18_en_clase\bin\Debug\Librerias.dll
+F:\Clase_18_en_clase\Clase_18_en_clase\bin\Debug\Librerias.pdb
+F:\Clase_18_en_clase\Clase_18_en_clase\obj\Debug\Clase_18_en_clase.csprojResolveAssemblyReference.cache
+F:\Clase_18_en_clase\Clase_18_en_clase\obj\Debug\Clase_18_en_clase.exe
+F:\Clase_18_en_clase\Clase_18_en_clase\obj\Debug\Clase_18_en_clase.pdb

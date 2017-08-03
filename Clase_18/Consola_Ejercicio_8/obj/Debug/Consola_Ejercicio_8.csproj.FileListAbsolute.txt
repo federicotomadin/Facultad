@@ -1,0 +1,6 @@
+E:\Clase_18\Consola_Ejercicio_8\bin\Debug\Consola_Ejercicio_8.exe.config
+E:\Clase_18\Consola_Ejercicio_8\bin\Debug\Consola_Ejercicio_8.exe
+E:\Clase_18\Consola_Ejercicio_8\bin\Debug\Consola_Ejercicio_8.pdb
+E:\Clase_18\Consola_Ejercicio_8\obj\Debug\Consola_Ejercicio_8.csprojResolveAssemblyReference.cache
+E:\Clase_18\Consola_Ejercicio_8\obj\Debug\Consola_Ejercicio_8.exe
+E:\Clase_18\Consola_Ejercicio_8\obj\Debug\Consola_Ejercicio_8.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase_XML", "Clase_XML\Clase_XML.csproj", "{668C78C1-402B-476F-842C-04094AE2EA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML_Consola", "XML_Consola\XML_Consola.csproj", "{7D46D282-B0BF-4F24-AFD7-224BE5252F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{668C78C1-402B-476F-842C-04094AE2EA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668C78C1-402B-476F-842C-04094AE2EA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668C78C1-402B-476F-842C-04094AE2EA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668C78C1-402B-476F-842C-04094AE2EA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D46D282-B0BF-4F24-AFD7-224BE5252F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D46D282-B0BF-4F24-AFD7-224BE5252F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D46D282-B0BF-4F24-AFD7-224BE5252F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D46D282-B0BF-4F24-AFD7-224BE5252F52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

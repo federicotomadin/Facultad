@@ -1,0 +1,10 @@
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_19\Clase_19\bin\Debug\Clase_19.dll
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_19\Clase_19\bin\Debug\Clase_19.pdb
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_19\Clase_19\obj\Debug\Clase_19.csprojResolveAssemblyReference.cache
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_19\Clase_19\obj\Debug\Clase_19.dll
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_19\Clase_19\obj\Debug\Clase_19.pdb
+F:\Clase_19\Clase_19\obj\Debug\Clase_19.csprojResolveAssemblyReference.cache
+F:\Clase_19\Clase_19\obj\Debug\Clase_19.dll
+F:\Clase_19\Clase_19\obj\Debug\Clase_19.pdb
+F:\Clase_19\Clase_19\bin\Debug\Clase_19.dll
+F:\Clase_19\Clase_19\bin\Debug\Clase_19.pdb

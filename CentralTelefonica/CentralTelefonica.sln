@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaHerencia", "CentralitaHerencia\CentralitaHerencia.csproj", "{5DD9AACE-3354-4F3A-B7C1-3B46343E6423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Librerias", "Librerias\Librerias.csproj", "{46779ABB-2F5B-4E56-96A6-5F0CDE327E97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaPolimorfismo", "CentralitaPolimorfismo\CentralitaPolimorfismo.csproj", "{80BBDA23-264E-4EDB-91DE-D52FF4FDFF4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaPolimormismoProgram", "CentralitaPolimormismoProgram\CentralitaPolimormismoProgram.csproj", "{82BBC39D-C46A-4D84-8A6D-E13492ADC2E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaSerializacion", "CentralitaSerializacion\CentralitaSerializacion.csproj", "{7EDF6573-978D-4855-9276-23DCF471A1B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaSerializacionProgram", "CentralitaSerializacionProgram\CentralitaSerializacionProgram.csproj", "{9B9EDA19-3C8A-42A5-A169-9D3ACC878B74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DD9AACE-3354-4F3A-B7C1-3B46343E6423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD9AACE-3354-4F3A-B7C1-3B46343E6423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD9AACE-3354-4F3A-B7C1-3B46343E6423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD9AACE-3354-4F3A-B7C1-3B46343E6423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46779ABB-2F5B-4E56-96A6-5F0CDE327E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46779ABB-2F5B-4E56-96A6-5F0CDE327E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46779ABB-2F5B-4E56-96A6-5F0CDE327E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46779ABB-2F5B-4E56-96A6-5F0CDE327E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80BBDA23-264E-4EDB-91DE-D52FF4FDFF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BBDA23-264E-4EDB-91DE-D52FF4FDFF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BBDA23-264E-4EDB-91DE-D52FF4FDFF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BBDA23-264E-4EDB-91DE-D52FF4FDFF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BBC39D-C46A-4D84-8A6D-E13492ADC2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BBC39D-C46A-4D84-8A6D-E13492ADC2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BBC39D-C46A-4D84-8A6D-E13492ADC2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BBC39D-C46A-4D84-8A6D-E13492ADC2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EDF6573-978D-4855-9276-23DCF471A1B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDF6573-978D-4855-9276-23DCF471A1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDF6573-978D-4855-9276-23DCF471A1B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDF6573-978D-4855-9276-23DCF471A1B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B9EDA19-3C8A-42A5-A169-9D3ACC878B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9EDA19-3C8A-42A5-A169-9D3ACC878B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9EDA19-3C8A-42A5-A169-9D3ACC878B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9EDA19-3C8A-42A5-A169-9D3ACC878B74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+F:\CentralTelefonica\CentralitaPolimormismoProgram\bin\Debug\CentralitaPolimormismoProgram.exe.config
+F:\CentralTelefonica\CentralitaPolimormismoProgram\obj\Debug\CentralitaPolimormismoProgram.csprojResolveAssemblyReference.cache
+C:\Users\sam\Desktop\CentralTelefonica\CentralitaPolimormismoProgram\bin\Debug\CentralitaPolimormismoProgram.exe.config

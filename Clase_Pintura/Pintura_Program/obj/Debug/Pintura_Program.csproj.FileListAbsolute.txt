@@ -1,0 +1,19 @@
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_Pintura\Pintura_Program\bin\Debug\Pintura_Program.exe.config
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_Pintura\Pintura_Program\bin\Debug\Pintura_Program.exe
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_Pintura\Pintura_Program\bin\Debug\Pintura_Program.pdb
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_Pintura\Pintura_Program\obj\Debug\Pintura_Program.csprojResolveAssemblyReference.cache
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_Pintura\Pintura_Program\obj\Debug\Pintura_Program.exe
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_Pintura\Pintura_Program\obj\Debug\Pintura_Program.pdb
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_Pintura\Pintura_Program\bin\Debug\Clase_Pintura.dll
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Clase_Pintura\Pintura_Program\bin\Debug\Clase_Pintura.pdb
+E:\Clase_Pintura\Pintura_Program\bin\Debug\Pintura_Program.exe.config
+E:\Clase_Pintura\Pintura_Program\obj\Debug\Pintura_Program.exe
+E:\Clase_Pintura\Pintura_Program\obj\Debug\Pintura_Program.pdb
+F:\Clase_Pintura\Pintura_Program\bin\Debug\Pintura_Program.exe.config
+F:\Clase_Pintura\Pintura_Program\obj\Debug\Pintura_Program.exe
+F:\Clase_Pintura\Pintura_Program\obj\Debug\Pintura_Program.pdb
+F:\Clase_Pintura\Pintura_Program\bin\Debug\Pintura_Program.exe
+F:\Clase_Pintura\Pintura_Program\bin\Debug\Pintura_Program.pdb
+F:\Clase_Pintura\Pintura_Program\bin\Debug\Clase_Pintura.dll
+F:\Clase_Pintura\Pintura_Program\bin\Debug\Clase_Pintura.pdb
+F:\Clase_Pintura\Pintura_Program\obj\Debug\Pintura_Program.csprojResolveAssemblyReference.cache
