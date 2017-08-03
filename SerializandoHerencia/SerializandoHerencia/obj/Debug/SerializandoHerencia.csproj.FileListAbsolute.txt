@@ -1,0 +1,7 @@
+D:\Maxi - Octavio - NO BORRAR\C#-2009\SerializandoHerencia\SerializandoHerencia\obj\Debug\ResolveAssemblyReference.cache
+D:\Maxi - Octavio - NO BORRAR\C#-2009\SerializandoHerencia\SerializandoHerencia\bin\Debug\SerializandoHerencia.exe
+D:\Maxi - Octavio - NO BORRAR\C#-2009\SerializandoHerencia\SerializandoHerencia\bin\Debug\SerializandoHerencia.pdb
+D:\Maxi - Octavio - NO BORRAR\C#-2009\SerializandoHerencia\SerializandoHerencia\obj\Debug\SerializandoHerencia.exe
+D:\Maxi - Octavio - NO BORRAR\C#-2009\SerializandoHerencia\SerializandoHerencia\obj\Debug\SerializandoHerencia.pdb
+F:\SerializandoHerencia\SerializandoHerencia\obj\Debug\SerializandoHerencia.exe
+F:\SerializandoHerencia\SerializandoHerencia\obj\Debug\SerializandoHerencia.pdb
