@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tomadin.federico", "tomadin.federico\tomadin.federico.csproj", "{62C7B5D4-3E62-4BD2-8985-2740CDF05D9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercico_guia_9", "Ejercico_guia_9\Ejercico_guia_9.csproj", "{F70B973F-75BA-4482-9882-8850A409D537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_guia_3", "Ejercicio_guia_3\Ejercicio_guia_3.csproj", "{C274396F-23D8-42CA-915E-E4CC56B40EEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C7B5D4-3E62-4BD2-8985-2740CDF05D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C7B5D4-3E62-4BD2-8985-2740CDF05D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C7B5D4-3E62-4BD2-8985-2740CDF05D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C7B5D4-3E62-4BD2-8985-2740CDF05D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F70B973F-75BA-4482-9882-8850A409D537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70B973F-75BA-4482-9882-8850A409D537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70B973F-75BA-4482-9882-8850A409D537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70B973F-75BA-4482-9882-8850A409D537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C274396F-23D8-42CA-915E-E4CC56B40EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C274396F-23D8-42CA-915E-E4CC56B40EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C274396F-23D8-42CA-915E-E4CC56B40EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C274396F-23D8-42CA-915E-E4CC56B40EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

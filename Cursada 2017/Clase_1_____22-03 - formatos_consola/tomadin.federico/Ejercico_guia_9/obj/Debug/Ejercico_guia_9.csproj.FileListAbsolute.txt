@@ -1,0 +1,11 @@
+D:\VisualStudio\tomadin.federico\Ejercico_guia_9\bin\Debug\Ejercico_guia_9.exe.config
+D:\VisualStudio\tomadin.federico\Ejercico_guia_9\bin\Debug\Ejercico_guia_9.exe
+D:\VisualStudio\tomadin.federico\Ejercico_guia_9\bin\Debug\Ejercico_guia_9.pdb
+D:\VisualStudio\tomadin.federico\Ejercico_guia_9\obj\Debug\Ejercico_guia_9.exe
+D:\VisualStudio\tomadin.federico\Ejercico_guia_9\obj\Debug\Ejercico_guia_9.pdb
+F:\Cursada 2017\Clase1_22-03 - formatos_consola\tomadin.federico\Ejercico_guia_9\bin\Debug\Ejercico_guia_9.exe.config
+F:\Cursada 2017\Clase1_22-03 - formatos_consola\tomadin.federico\Ejercico_guia_9\obj\Debug\Ejercico_guia_9.exe
+F:\Cursada 2017\Clase1_22-03 - formatos_consola\tomadin.federico\Ejercico_guia_9\obj\Debug\Ejercico_guia_9.pdb
+F:\Cursada 2017\Clase1_22-03 - formatos_consola\tomadin.federico\Ejercico_guia_9\bin\Debug\Ejercico_guia_9.exe
+F:\Cursada 2017\Clase1_22-03 - formatos_consola\tomadin.federico\Ejercico_guia_9\bin\Debug\Ejercico_guia_9.pdb
+F:\Cursada 2017\Clase1_22-03 - formatos_consola\tomadin.federico\Ejercico_guia_9\obj\Debug\Ejercico_guia_9.csprojResolveAssemblyReference.cache

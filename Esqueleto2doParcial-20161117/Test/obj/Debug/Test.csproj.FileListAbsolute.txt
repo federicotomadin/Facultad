@@ -1,0 +1,12 @@
+C:\Users\alumno\Desktop\Esqueleto2doParcial-20161117\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\Esqueleto2doParcial-20161117\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\Esqueleto2doParcial-20161117\Test\bin\Debug\Test.dll
+F:\Esqueleto2doParcial-20161117\Test\bin\Debug\Test.pdb
+F:\Esqueleto2doParcial-20161117\Test\bin\Debug\Entidades.dll
+F:\Esqueleto2doParcial-20161117\Test\bin\Debug\Esqueleto2doParcial-20161114.exe
+F:\Esqueleto2doParcial-20161117\Test\bin\Debug\Excepciones.dll
+F:\Esqueleto2doParcial-20161117\Test\bin\Debug\Entidades.pdb
+F:\Esqueleto2doParcial-20161117\Test\bin\Debug\Esqueleto2doParcial-20161114.pdb
+F:\Esqueleto2doParcial-20161117\Test\bin\Debug\Excepciones.pdb
+F:\Esqueleto2doParcial-20161117\Test\obj\Debug\Test.dll
+F:\Esqueleto2doParcial-20161117\Test\obj\Debug\Test.pdb

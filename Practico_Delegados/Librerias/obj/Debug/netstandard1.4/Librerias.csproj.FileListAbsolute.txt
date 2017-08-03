@@ -1,0 +1,7 @@
+c:\users\sam\documents\visual studio 2017\Projects\Practico_Delegados\Librerias\bin\Debug\netstandard1.4\Librerias.deps.json
+c:\users\sam\documents\visual studio 2017\Projects\Practico_Delegados\Librerias\bin\Debug\netstandard1.4\Librerias.dll
+c:\users\sam\documents\visual studio 2017\Projects\Practico_Delegados\Librerias\bin\Debug\netstandard1.4\Librerias.pdb
+c:\users\sam\documents\visual studio 2017\Projects\Practico_Delegados\Librerias\obj\Debug\netstandard1.4\Librerias.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2017\Projects\Practico_Delegados\Librerias\obj\Debug\netstandard1.4\Librerias.AssemblyInfo.cs
+c:\users\sam\documents\visual studio 2017\Projects\Practico_Delegados\Librerias\obj\Debug\netstandard1.4\Librerias.dll
+c:\users\sam\documents\visual studio 2017\Projects\Practico_Delegados\Librerias\obj\Debug\netstandard1.4\Librerias.pdb

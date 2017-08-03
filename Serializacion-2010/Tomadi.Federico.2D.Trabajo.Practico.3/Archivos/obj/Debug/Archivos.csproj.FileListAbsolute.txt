@@ -1,0 +1,5 @@
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Archivos\bin\Debug\Archivos.dll
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Archivos\obj\Debug\Archivos.dll
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Archivos\obj\Debug\Archivos.pdb

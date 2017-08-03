@@ -1,0 +1,15 @@
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Esqueleto2doParcial-20161117\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Esqueleto2doParcial-20161117\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Esqueleto2doParcial-20161117\Entidades\obj\Debug\Entidades.pdb
+F:\Esqueleto2doParcial-20161117\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\Esqueleto2doParcial-20161117\Entidades\obj\Debug\Entidades.dll
+F:\Esqueleto2doParcial-20161117\Entidades\obj\Debug\Entidades.pdb
+F:\Esqueleto2doParcial-20161117\Entidades\bin\Debug\Entidades.dll
+F:\Esqueleto2doParcial-20161117\Entidades\bin\Debug\Entidades.pdb
+F:\Esqueleto2doParcial-20161117\Entidades\bin\Debug\Excepciones.dll
+F:\Esqueleto2doParcial-20161117\Entidades\bin\Debug\Excepciones.pdb

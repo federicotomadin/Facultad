@@ -1,0 +1,9 @@
+D:\VisualStudio\tomadin.federico\tomadin.federico\bin\Debug\tomadin.federico.exe.config
+D:\VisualStudio\tomadin.federico\tomadin.federico\bin\Debug\tomadin.federico.exe
+D:\VisualStudio\tomadin.federico\tomadin.federico\bin\Debug\tomadin.federico.pdb
+D:\VisualStudio\tomadin.federico\tomadin.federico\obj\Debug\tomadin.federico.csprojResolveAssemblyReference.cache
+D:\VisualStudio\tomadin.federico\tomadin.federico\obj\Debug\tomadin.federico.exe
+D:\VisualStudio\tomadin.federico\tomadin.federico\obj\Debug\tomadin.federico.pdb
+F:\Cursada 2017\Clase1_22-03 - formatos_consola\tomadin.federico\tomadin.federico\bin\Debug\tomadin.federico.exe.config
+F:\Cursada 2017\Clase1_22-03 - formatos_consola\tomadin.federico\tomadin.federico\obj\Debug\tomadin.federico.exe
+F:\Cursada 2017\Clase1_22-03 - formatos_consola\tomadin.federico\tomadin.federico\obj\Debug\tomadin.federico.pdb

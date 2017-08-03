@@ -1,0 +1,6 @@
+c:\users\sam\documents\visual studio 2013\Projects\Ejercicio_12_guia\Ejercicio_12_guia\bin\Debug\Ejercicio_12_guia.exe.config
+c:\users\sam\documents\visual studio 2013\Projects\Ejercicio_12_guia\Ejercicio_12_guia\obj\Debug\Ejercicio_12_guia.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2013\Projects\Ejercicio_12_guia\Ejercicio_12_guia\bin\Debug\Ejercicio_12_guia.exe
+c:\users\sam\documents\visual studio 2013\Projects\Ejercicio_12_guia\Ejercicio_12_guia\bin\Debug\Ejercicio_12_guia.pdb
+c:\users\sam\documents\visual studio 2013\Projects\Ejercicio_12_guia\Ejercicio_12_guia\obj\Debug\Ejercicio_12_guia.exe
+c:\users\sam\documents\visual studio 2013\Projects\Ejercicio_12_guia\Ejercicio_12_guia\obj\Debug\Ejercicio_12_guia.pdb

@@ -1,0 +1,9 @@
+D:\VisualStudio\Clase_2_23-03-2017\Clase_2_23-03-2017\bin\Debug\Clase_2_23-03-2017.exe.config
+D:\VisualStudio\Clase_2_23-03-2017\Clase_2_23-03-2017\bin\Debug\Clase_2_23-03-2017.exe
+D:\VisualStudio\Clase_2_23-03-2017\Clase_2_23-03-2017\bin\Debug\Clase_2_23-03-2017.pdb
+D:\VisualStudio\Clase_2_23-03-2017\Clase_2_23-03-2017\obj\Debug\Clase_2_23-03-2017.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clase_2_23-03-2017\Clase_2_23-03-2017\obj\Debug\Clase_2_23-03-2017.exe
+D:\VisualStudio\Clase_2_23-03-2017\Clase_2_23-03-2017\obj\Debug\Clase_2_23-03-2017.pdb
+F:\Cursada 2017\Clase_2_____23-03-2017___metodos y class staticas\Clase_2_23-03-2017\bin\Debug\Clase_2_23-03-2017.exe.config
+F:\Cursada 2017\Clase_2_____23-03-2017___metodos y class staticas\Clase_2_23-03-2017\obj\Debug\Clase_2_23-03-2017.exe
+F:\Cursada 2017\Clase_2_____23-03-2017___metodos y class staticas\Clase_2_23-03-2017\obj\Debug\Clase_2_23-03-2017.pdb

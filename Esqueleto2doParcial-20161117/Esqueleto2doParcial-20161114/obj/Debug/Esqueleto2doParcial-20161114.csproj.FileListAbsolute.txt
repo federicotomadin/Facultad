@@ -1,0 +1,35 @@
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\bin\Debug\Esqueleto2doParcial-20161114.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\bin\Debug\Esqueleto2doParcial-20161114.exe
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\bin\Debug\Esqueleto2doParcial-20161114.pdb
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial_20161114.frmParcial.resources
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial_20161114.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.exe
+D:\Federico\VB .Net\Visual C#\utn\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.pdb
+C:\Users\alumno\Desktop\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\bin\Debug\Esqueleto2doParcial-20161114.exe.config
+C:\Users\alumno\Desktop\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.exe
+C:\Users\alumno\Desktop\Esqueleto2doParcial-20161114\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.pdb
+C:\Users\alumno\Desktop\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\bin\Debug\Esqueleto2doParcial-20161114.exe.config
+C:\Users\alumno\Desktop\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.exe
+C:\Users\alumno\Desktop\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.pdb
+C:\Users\alumno\Desktop\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial_20161114.frmParcial.resources
+C:\Users\alumno\Desktop\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial_20161114.Properties.Resources.resources
+C:\Users\alumno\Desktop\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.csproj.GenerateResource.Cache
+\\lab5pc26\c$\Users\alumno\Desktop\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\bin\Debug\Esqueleto2doParcial-20161114.exe.config
+\\lab5pc26\c$\Users\alumno\Desktop\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.exe
+\\lab5pc26\c$\Users\alumno\Desktop\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.pdb
+F:\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\bin\Debug\Esqueleto2doParcial-20161114.exe.config
+F:\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.exe
+F:\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.pdb
+F:\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.csprojResolveAssemblyReference.cache
+F:\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial_20161114.frmParcial.resources
+F:\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial_20161114.Properties.Resources.resources
+F:\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\obj\Debug\Esqueleto2doParcial-20161114.csproj.GenerateResource.Cache
+F:\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\bin\Debug\Esqueleto2doParcial-20161114.exe
+F:\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\bin\Debug\Esqueleto2doParcial-20161114.pdb
+F:\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\bin\Debug\Entidades.dll
+F:\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\bin\Debug\Excepciones.dll
+F:\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\bin\Debug\Entidades.pdb
+F:\Esqueleto2doParcial-20161117\Esqueleto2doParcial-20161114\bin\Debug\Excepciones.pdb

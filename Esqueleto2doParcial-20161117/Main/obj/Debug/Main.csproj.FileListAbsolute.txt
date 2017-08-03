@@ -1,0 +1,12 @@
+F:\Esqueleto2doParcial-20161117\Main\bin\Debug\Main.exe.config
+F:\Esqueleto2doParcial-20161117\Main\bin\Debug\Main.exe
+F:\Esqueleto2doParcial-20161117\Main\bin\Debug\Main.pdb
+F:\Esqueleto2doParcial-20161117\Main\bin\Debug\Entidades.dll
+F:\Esqueleto2doParcial-20161117\Main\bin\Debug\Esqueleto2doParcial-20161114.exe
+F:\Esqueleto2doParcial-20161117\Main\bin\Debug\Excepciones.dll
+F:\Esqueleto2doParcial-20161117\Main\bin\Debug\Entidades.pdb
+F:\Esqueleto2doParcial-20161117\Main\bin\Debug\Esqueleto2doParcial-20161114.pdb
+F:\Esqueleto2doParcial-20161117\Main\bin\Debug\Excepciones.pdb
+F:\Esqueleto2doParcial-20161117\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+F:\Esqueleto2doParcial-20161117\Main\obj\Debug\Main.exe
+F:\Esqueleto2doParcial-20161117\Main\obj\Debug\Main.pdb

@@ -1,0 +1,18 @@
+
+
+atributos publicos empiezan sin el guion bajo
+
+atributos privados empiezan con guien bajo
+
+constantes todas mayusculas
+
+Metodos son verbos y empiezan con mayuscula
+
+atributos compuestos y publicos agregan mayuscula en la segunda palabra
+
+
+
+Una clase comun puede contener metodos estaticos
+
+
+
