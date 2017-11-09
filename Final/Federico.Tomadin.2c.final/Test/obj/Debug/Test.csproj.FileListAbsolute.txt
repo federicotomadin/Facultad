@@ -1,0 +1,8 @@
+G:\Final\Federico.Tomadin.2c.final\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\Final\Federico.Tomadin.2c.final\Test\bin\Debug\Test.exe.config
+G:\Final\Federico.Tomadin.2c.final\Test\bin\Debug\Test.exe
+G:\Final\Federico.Tomadin.2c.final\Test\bin\Debug\Test.pdb
+G:\Final\Federico.Tomadin.2c.final\Test\bin\Debug\Entidades.dll
+G:\Final\Federico.Tomadin.2c.final\Test\bin\Debug\Entidades.pdb
+G:\Final\Federico.Tomadin.2c.final\Test\obj\Debug\Test.exe
+G:\Final\Federico.Tomadin.2c.final\Test\obj\Debug\Test.pdb

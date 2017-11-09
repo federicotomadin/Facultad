@@ -1,0 +1,11 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Federico.Tomadin.2c.final\Entidades\bin\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Federico.Tomadin.2c.final\Entidades\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Federico.Tomadin.2c.final\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Federico.Tomadin.2c.final\Entidades\obj\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Federico.Tomadin.2c.final\Entidades\obj\Debug\Entidades.pdb
+G:\Final\Federico.Tomadin.2c.final\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+G:\Final\Federico.Tomadin.2c.final\Entidades\obj\Debug\Entidades.dll
+G:\Final\Federico.Tomadin.2c.final\Entidades\obj\Debug\Entidades.pdb
+G:\Final\Federico.Tomadin.2c.final\Entidades\bin\Debug\Entidades.dll.config
+G:\Final\Federico.Tomadin.2c.final\Entidades\bin\Debug\Entidades.dll
+G:\Final\Federico.Tomadin.2c.final\Entidades\bin\Debug\Entidades.pdb
